@@ -1,3 +1,4 @@
+#4.1
 from sys import argv
 
 name, hours, stavka, premiya = argv
